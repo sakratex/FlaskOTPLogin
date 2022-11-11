@@ -29,7 +29,6 @@ def SendMail(OTP, mail):
     finally:
         s.quit()
 
-# SendMail(OTP="234234",mail="ernkinq@gmail.com")
 
 
 def otpWrite(OTP):
